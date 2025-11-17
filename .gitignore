@@ -16,10 +16,7 @@ venv/
 .AppleDouble
 .LSOverride
 
-# PDF, CSV, TXT outputs
-*.pdf
-*.csv
-*.txt
+
 
 # But KEEP the search log file
 !searches.txt
