@@ -1,0 +1,75 @@
+Name: bulbasaur
+Abilities: overgrow, chlorophyll
+
+Name: ivysaur
+Abilities: overgrow, chlorophyll
+
+Name: venusaur
+Abilities: overgrow, chlorophyll
+
+Name: charmander
+Abilities: blaze, solar-power
+
+Name: charmeleon
+Abilities: blaze, solar-power
+
+Name: charizard
+Abilities: blaze, solar-power
+
+Name: squirtle
+Abilities: torrent, rain-dish
+
+Name: wartortle
+Abilities: torrent, rain-dish
+
+Name: blastoise
+Abilities: torrent, rain-dish
+
+Name: caterpie
+Abilities: shield-dust, run-away
+
+Name: metapod
+Abilities: shed-skin
+
+Name: butterfree
+Abilities: compound-eyes, tinted-lens
+
+Name: weedle
+Abilities: shield-dust, run-away
+
+Name: kakuna
+Abilities: shed-skin
+
+Name: beedrill
+Abilities: swarm, sniper
+
+Name: pidgey
+Abilities: keen-eye, tangled-feet, big-pecks
+
+Name: pidgeotto
+Abilities: keen-eye, tangled-feet, big-pecks
+
+Name: pidgeot
+Abilities: keen-eye, tangled-feet, big-pecks
+
+Name: rattata
+Abilities: run-away, guts, hustle
+
+Name: raticate
+Abilities: run-away, guts, hustle
+
+Name: spearow
+Abilities: keen-eye, sniper
+
+Name: fearow
+Abilities: keen-eye, sniper
+
+Name: ekans
+Abilities: intimidate, shed-skin, unnerve
+
+Name: arbok
+Abilities: intimidate, shed-skin, unnerve
+
+Name: pikachu
+Abilities: static, lightning-rod
+
