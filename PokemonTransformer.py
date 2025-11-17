@@ -6,7 +6,6 @@ class PokemonTransformer:
 
         for p in data:
             simple_list.append({
-                "id": p["id"],
                 "name": p["name"],
                 "abilities": [a["ability"]["name"] for a in p["abilities"]]
             })
