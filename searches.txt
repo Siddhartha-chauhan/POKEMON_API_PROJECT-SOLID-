@@ -1,0 +1,9 @@
+how to fetch data from api?
+How do I fetch 25 Pokémon from the API?
+How do I export Pokémon data to a TXT file?
+How do I export Pokémon data to a CSV file?
+How do I export Pokémon data to a PDF file?
+How do I read Pokémon data from a JSON file?
+How do I convert JSON Pokémon data into CSV format?
+How do I read Pokémon data from a CSV file?
+How do I export Pokémon data (from CSV) into a PDF table?
