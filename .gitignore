@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+.env/
+.envrc
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PDF, CSV, TXT outputs
+*.pdf
+*.csv
+*.txt
+
+# But KEEP the search log file
+!searches.txt
+
+# Ignore logs
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# PyCharm project settings
+*.iml
+
+# Backup files
+*.bak
+*.tmp

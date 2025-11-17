@@ -1,0 +1,207 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "ivysaur",
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "venusaur",
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "charmander",
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "charmeleon",
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "squirtle",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "wartortle",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "blastoise",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "caterpie",
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "metapod",
+        "abilities": [
+            "shed-skin"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "butterfree",
+        "abilities": [
+            "compound-eyes",
+            "tinted-lens"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "weedle",
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "kakuna",
+        "abilities": [
+            "shed-skin"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "beedrill",
+        "abilities": [
+            "swarm",
+            "sniper"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "pidgey",
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "pidgeotto",
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "pidgeot",
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "rattata",
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "raticate",
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "spearow",
+        "abilities": [
+            "keen-eye",
+            "sniper"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "fearow",
+        "abilities": [
+            "keen-eye",
+            "sniper"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "ekans",
+        "abilities": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "arbok",
+        "abilities": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "pikachu",
+        "abilities": [
+            "static",
+            "lightning-rod"
+        ]
+    }
+]
