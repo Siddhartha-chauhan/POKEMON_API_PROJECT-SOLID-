@@ -25,8 +25,7 @@ class PDFExporter:
         for p in data:
             abilities_text = ", ".join(p["abilities"])
 
-            # ID cell
-            pdf.cell(col_id, 10, str(p["id"]), border=1)
+            
 
             # Name cell
             pdf.cell(col_name, 10, p["name"], border=1)
